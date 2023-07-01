@@ -1,0 +1,22 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romikumar02/Ideaapp.git"
+  },
+  "author": "\"Romi\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romikumar02/Ideaapp/issues"
+  },
+  "homepage": "https://github.com/Romikumar02/Ideaapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
